@@ -18,7 +18,10 @@ Product Development: Automakers can leverage the findings to inform product deve
 
 ## Dependencies ##
 
-Python 3.x
+Python 3
+
 Pytrends library
+
 Matplotlib
+
 Seaborn
