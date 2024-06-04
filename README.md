@@ -1,8 +1,8 @@
 # Analyzing_ElectricCar_Popularity_with_PyTrend
 
-## Overview##
+## Overview
 
-This project analyzes the search trends and related queries for electric cars in France and Great Britain (England) using the Google Trends API and Python.
+Using the Google Trends API and Python, this project analyzes the search trends and related queries for electric cars in France and Great Britain (England).
 
 ## Key Insights
 
